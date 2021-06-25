@@ -1,4 +1,4 @@
-<img src="" alt="" />
+<img src="https://github.com/xNoJustice/react-pomodoro-app/blob/1af11ba9ccb29a5472ccdcc94302d3875fa24774/pomodoro.png" alt="" />
 
 # Getting Started with Create React App
 
